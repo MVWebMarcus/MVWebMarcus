@@ -3,7 +3,7 @@
 
 ### “Sou programador com formação de Técnólogo em Automação e Técnico em eletrônica tenho me desenvolvido em algumas linguágens de programação.”
 
-![MVWebMarcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MVWebMarcus&show_icons=true&theme=radical)
+
 
 ##  Tecnologias que eu uso no meu dia.
 
