@@ -1,7 +1,7 @@
 ##  Olá! Eu sou o Marcus Vinicius 👋
 
 
-### “Sou programador com formação de Técnólogo em Automação e Técnico em eletrônica tenho me desenvolvido em algumas linguágens de programação.”
+### “Sou um profissional com experiência em programação de dispositivos IOT com C/C++, C# .net, Java Script e Html5/Css. Tenho graduação em Tecnólogo em Automação Industrial na Fatec (Senai/POA) e Técnico em eletrônica na (Escola técnica Cristo redentor) em Canoas, com alguns cursos de especialização na área de programação.”
 
 
 
